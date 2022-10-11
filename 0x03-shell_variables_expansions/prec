@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "This is an example of tilde expansion"
+echo "addition of 2and2 is"
+echo "\$((2+2))"
+echo "$((2+2))"
